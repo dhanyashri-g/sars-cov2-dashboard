@@ -1,0 +1,4 @@
+region,date,lineage,variant,mutation_count
+Europe,2020-03,BA.1,Alpha,12
+Asia,2021-06,BA.2,Delta,20
+North America,2021-12,BA.5,Omicron,35
